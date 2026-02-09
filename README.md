@@ -61,35 +61,35 @@ I’m currently diving deep into **RISC-V architecture**, where all my interests
 <summary>🔩 <b>Hardware, Kernel & Embedded</b></summary>
 <br>
 
-### 1. **riscv-microkernel** — Minimal OS Kernel
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white)
-![OS Dev](https://img.shields.io/badge/OS-Kernel-black?style=flat-square)
-
-- 📦 **What it is:** A minimal operating system kernel written from scratch (~1000 LOC).
-- 🎯 **Why it matters:** Hands-on exploration of boot flow, trap handling, and context switching on bare-metal RISC-V.
-- 🔗 [View Repository](https://github.com/imserez/rv-microkernel)
-
----
-
-### 2. **FPGA Projects** — UART & Counter
-![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-CA0000?style=flat-square&logo=amd&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-Logic-orange?style=flat-square)
-
-- 📦 **What it is:** FPGA-based hardware modules implemented on Xilinx boards.
-- 🧠 **Focus:** RTL design, simulation, timing awareness, and HW/SW interfacing.
-- 🔗 [Counter](https://github.com/imserez/fpga-counter) | [UART](https://github.com/imserez/fpga-uart)
-
----
-
-### 3. **Arduino Game of Life** — Embedded Graphics
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-MCU-success?style=flat-square)
-
-- 📦 **What it is:** Conway’s Game of Life optimized for low-memory microcontrollers.
-- 🧠 **Focus:** Bitwise state encoding, SPI communication, and real-time rendering.
-- 🔗 [View Repository](https://github.com/imserez/Colorful-game-of-life-)
+> ### 1. **riscv-microkernel** — Minimal OS Kernel  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white)
+> ![OS Dev](https://img.shields.io/badge/OS-Kernel-black?style=flat-square)
+>
+> - 📦 **What it is:** A minimal operating system kernel written from scratch (~1000 LOC).
+> - 🎯 **Why it matters:** Hands-on exploration of boot flow, trap handling, and context switching on bare-metal RISC-V.
+> - 🔗 [View Repository](https://github.com/imserez/rv-microkernel)
+>
+> ---
+>
+> ### 2. **FPGA Projects** — UART & Counter  
+> ![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white)
+> ![Vivado](https://img.shields.io/badge/Vivado-CA0000?style=flat-square&logo=amd&logoColor=white)
+> ![FPGA](https://img.shields.io/badge/FPGA-Logic-orange?style=flat-square)
+>
+> - 📦 **What it is:** FPGA-based hardware modules implemented on Xilinx boards.
+> - 🧠 **Focus:** RTL design, simulation, timing awareness, and HW/SW interfacing.
+> - 🔗 [Counter](https://github.com/imserez/fpga-counter) | [UART](https://github.com/imserez/fpga-uart)
+>
+> ---
+>
+> ### 3. **Arduino Game of Life** — Embedded Graphics  
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+> ![Embedded](https://img.shields.io/badge/Embedded-MCU-success?style=flat-square)
+>
+> - 📦 **What it is:** Conway’s Game of Life optimized for low-memory microcontrollers.
+> - 🧠 **Focus:** Bitwise state encoding, SPI communication, and real-time rendering.
+> - 🔗 [View Repository](https://github.com/imserez/Colorful-game-of-life-)
 
 </details>
 
@@ -99,40 +99,40 @@ I’m currently diving deep into **RISC-V architecture**, where all my interests
 <summary>🐧 <b>Unix Architecture & Systems</b></summary>
 <br>
 
-### 1. **Minishell** — Bash-like Shell
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![UNIX](https://img.shields.io/badge/UNIX-Fork%2FExec-blue?style=flat-square)
-
-- 📦 Parsing, process creation, signals, pipes, redirections, environment handling.
-- 🔗 [View Repository](https://github.com/imserez/minishell)
-
----
-
-### 2. **Philosophers** — Concurrency & Threading
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Threads](https://img.shields.io/badge/Threads-Mutex-red?style=flat-square)
-
-- 📦 Dining Philosophers solved using POSIX threads and mutexes.
-- 🔗 [View Repository](https://github.com/imserez/philosphers)
-
----
-
-### 3. **Pipex** — UNIX Pipes
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![I/O](https://img.shields.io/badge/UNIX-I%2FO-lightgrey?style=flat-square)
-
-- 📦 Replicates shell piping and redirections using `dup2` and file descriptors.
-- 🔗 [View Repository](https://github.com/imserez/pipex)
-
----
-
-### 4. **Custom C Libraries**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Memory](https://img.shields.io/badge/Memory-Management-blueviolet?style=flat-square)
-
-- **ft_printf** — variadic arguments, format parsing  
-- **get_next_line** — buffered file reading with static state  
-- 🔗 [Printf](https://github.com/imserez/printf) | [GNL](https://github.com/imserez/get_next_line)
+> ### 1. **Minishell** — Bash-like Shell  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![UNIX](https://img.shields.io/badge/UNIX-Fork%2FExec-blue?style=flat-square)
+>
+> - 📦 Parsing, process creation, signals, pipes, redirections, environment handling.
+> - 🔗 [View Repository](https://github.com/imserez/minishell)
+>
+> ---
+>
+> ### 2. **Philosophers** — Concurrency & Threading  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![Threads](https://img.shields.io/badge/Threads-Mutex-red?style=flat-square)
+>
+> - 📦 Dining Philosophers solved using POSIX threads and mutexes.
+> - 🔗 [View Repository](https://github.com/imserez/philosphers)
+>
+> ---
+>
+> ### 3. **Pipex** — UNIX Pipes  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![I/O](https://img.shields.io/badge/UNIX-I%2FO-lightgrey?style=flat-square)
+>
+> - 📦 Replicates shell piping and redirections using `dup2` and file descriptors.
+> - 🔗 [View Repository](https://github.com/imserez/pipex)
+>
+> ---
+>
+> ### 4. **Custom C Libraries**  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![Memory](https://img.shields.io/badge/Memory-Management-blueviolet?style=flat-square)
+>
+> - **ft_printf** — variadic arguments, format parsing  
+> - **get_next_line** — buffered file reading with static state  
+> - 🔗 [Printf](https://github.com/imserez/printf) | [GNL](https://github.com/imserez/get_next_line)
 
 </details>
 
@@ -142,30 +142,30 @@ I’m currently diving deep into **RISC-V architecture**, where all my interests
 <summary>⚡ <b>Algorithms & Graphics</b></summary>
 <br>
 
-### 1. **Cub3D** — Raycasting Engine
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Graphics](https://img.shields.io/badge/Graphics-Raycasting-ff69b4?style=flat-square)
-
-- 📦 Wolfenstein-style 3D engine using raycasting math.
-- 🔗 [View Repository](https://github.com/imserez/cub3d)
-
----
-
-### 2. **Push_swap** — Algorithmic Optimization
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Complexity-yellow?style=flat-square)
-
-- 📦 Stack-based sorting optimized for minimal operations.
-- 🔗 [View Repository](https://github.com/imserez/push_swap)
-
----
-
-### 3. **CPP Modules** — Object-Oriented Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Design-green?style=flat-square)
-
-- 📦 C++98 deep dive: inheritance, polymorphism, templates, exceptions.
-- 🔗 [View Repository](https://github.com/imserez/cpp-modules)
+> ### 1. **Cub3D** — Raycasting Engine  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![Graphics](https://img.shields.io/badge/Graphics-Raycasting-ff69b4?style=flat-square)
+>
+> - 📦 Wolfenstein-style 3D engine using raycasting math.
+> - 🔗 [View Repository](https://github.com/imserez/cub3d)
+>
+> ---
+>
+> ### 2. **Push_swap** — Algorithmic Optimization  
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![Algorithms](https://img.shields.io/badge/Algorithms-Complexity-yellow?style=flat-square)
+>
+> - 📦 Stack-based sorting optimized for minimal operations.
+> - 🔗 [View Repository](https://github.com/imserez/push_swap)
+>
+> ---
+>
+> ### 3. **CPP Modules** — Object-Oriented Programming  
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+> ![OOP](https://img.shields.io/badge/OOP-Design-green?style=flat-square)
+>
+> - 📦 C++98 deep dive: inheritance, polymorphism, templates, exceptions.
+> - 🔗 [View Repository](https://github.com/imserez/cpp-modules)
 
 </details>
 
