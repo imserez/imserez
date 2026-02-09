@@ -1,4 +1,4 @@
-# 🌟 Hi there! I’m Sergi Juárez 👋 
+# Hi there! I’m Sergi Juárez 👋 
 
 **Systems Software Engineer | Embedded Systems | RISC-V | C/C++ | FPGA**
 
