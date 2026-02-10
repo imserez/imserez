@@ -168,6 +168,15 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 >
 > - 📦 C++98 deep dive: inheritance, polymorphism, templates, exceptions.
 > - 🔗 [View Repository](https://github.com/imserez/cpp-modules)
+> 
+> ---
+>
+> ### 4. **so_long** — 2D graphics project 
+> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+> ![Graphics](https://img.shields.io/badge/Graphics-Raycasting-ff69b4?style=flat-square)
+>
+> - 📦 so_long is a minimal 2D graphics project that involves building a simple game engine using the MiniLibX library. I've also developed a tester to verify that the map is valid.
+> - 🔗 [so_long](https://github.com/imserez/so_long) | [tester](https://github.com/imserez/so_long_tester)
 
 </details>
 
