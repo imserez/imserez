@@ -101,12 +101,12 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 <summary>🐧 <b>Unix Architecture & Systems</b></summary>
 <br>
 
-> ### 1. **Minishell** — Bash-like Shell  
+> ### 1. **Minishell** — Bash-like shell  
 > ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 > ![UNIX](https://img.shields.io/badge/UNIX-Fork%2FExec-blue?style=flat-square)
 >
 > - 📦 Parsing, process creation, signals, pipes, redirections, environment handling.
-> - 🔗 [View Repository](https://github.com/imserez/minishell)
+> - 🔗 [View Repository](https://github.com/9x14S/42-Cursus-minishell)
 >
 > ---
 >
@@ -149,7 +149,7 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 > ![Graphics](https://img.shields.io/badge/Graphics-Raycasting-ff69b4?style=flat-square)
 >
 > - 📦 Wolfenstein-style 3D engine using raycasting math.
-> - 🔗 [View Repository](https://github.com/imserez/cub3d)
+> - 🔗 [View Repository](https://github.com/9x14S/42-Cursus-Cub3d)
 >
 > ---
 >
