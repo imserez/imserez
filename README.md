@@ -1,57 +1,59 @@
-# Hi there! I’m Sergi Juárez 👋 
+# Hi there! I’m Sergi Juárez 👋
 
-**Systems Software Engineer | Embedded Systems | RISC-V | C/C++ | FPGA**
+**Systems Software Engineer | Embedded & Low-Level Software | RISC-V | FPGA & HW/SW Interface**
 
-I’m a systems-oriented engineer passionate about working at the **intersection of software and hardware**. I’m currently transitioning towards **Embedded Systems**, with a strong focus on **system bring-up**, **low-level software**, and the **RISC-V ecosystem**.
+I’m a systems-oriented engineer interested in working at the **intersection of software and hardware**. I’m currently focusing on **embedded and low-level systems**, with particular interest in **system bring-up**, **RISC-V architectures**, and the **hardware/software interface**.
 
-> **“The best way to understand a system is to build it.”**
+> *“The best way to understand a system is to build it.”*
 
 ---
 
 ## 👨‍💻 About Me
 
-### 🎓 Background  
+### 🎓 Background
+
 I come from a **dual educational path**:
+
 - **UOC** — Computer Architecture & Operating Systems  
 - **42 Barcelona** — intensive, peer-to-peer, project-based learning  
 
-This combination shaped the way I work: **self-driven learning**, deep debugging, and collaborative problem solving in complex systems.
+This combination shaped how I approach engineering problems: **self-driven learning**, deep debugging, and collaborative problem-solving in complex systems.
 
 ---
 
 ### 🚀 Current Focus — Hardware / Software Interface
 
-I’m actively pivoting towards **Hardware–Software Co-Design**, approaching it primarily from the **software side**:
+I’m actively moving towards **Hardware–Software Co-Design**, approaching it primarily from the **software side**:
 
-- Operating Systems internals  
+- Operating system internals  
 - Embedded systems & bare-metal programming  
 - Firmware development  
 - RISC-V ISA and toolchains  
 
-At the same time, I’m deeply interested in the **hardware side**:
+In parallel, I’m building hands-on experience on the **hardware side**:
 
-- FPGA design & prototyping  
-- CPU microarchitecture  
-- Pipelined processors & Out-of-Order execution  
-- CPU design and performance optimization  
+- FPGA prototyping using **Verilog / SystemVerilog**
+- Design exploration and simulation with **Vivado**
+- Early system bring-up and validation
+- Understanding how software stacks interact with hardware platforms  
 
-To bridge both worlds, I started prototyping on a **Xilinx FPGA using Vivado**, designing and simulating custom hardware. Seeing software concepts materialize as real hardware has been a turning point for me.
-
----
-
-I’m currently diving deep into **RISC-V architecture**, where all my interests converge, with the goal of contributing to the **open-source hardware ecosystem**—from low-level software to custom CPU implementations.
+To bridge both worlds, I’m prototyping designs on a **Xilinx FPGA**, focusing on reproducible workflows, clear documentation, and iterative testing. Seeing low-level software concepts materialize as real hardware has been a key learning experience.
 
 ---
 
-## 🛠️ **Technical Skills**
+I’m currently deepening my understanding of **RISC-V systems**, where my interests in operating systems, embedded software, and FPGA prototyping naturally converge, with the goal of contributing to the **open-source hardware ecosystem**.
+
+---
+
+## 🛠️ Technical Skills
 
 | Domain | Technologies |
-| :--- | :--- |
-| **Hardware Design** | ![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=flat-square) ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-CA0000?style=flat-square&logo=amd&logoColor=white) |
-| **Systems Programming** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat-square&logo=gnu&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white) |
-| **Embedded & OS** | ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black) ![GNU Make](https://img.shields.io/badge/Makefiles-000?style=flat-square&logo=gnu&logoColor=white) ![UART/GPIO](https://img.shields.io/badge/UART%20%2F%20GPIO-Hardware-orange?style=flat-square) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-Debugger-green?style=flat-square) ![Valgrind](https://img.shields.io/badge/Valgrind-MemCheck-darkred?style=flat-square) |
-| **Scripting** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+|------|-------------|
+| **Hardware Design** | Verilog, SystemVerilog, Vivado |
+| **Systems Programming** | C, C++, Assembly, RISC-V |
+| **Embedded & OS** | Linux, Kernel fundamentals, GNU Make, UART / GPIO |
+| **DevOps & Tools** | Git, Docker, GDB, Valgrind |
+| **Scripting** | Bash, Python |
 
 ---
 
