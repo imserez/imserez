@@ -69,7 +69,6 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 > ![OS Dev](https://img.shields.io/badge/OS-Kernel-black?style=flat-square)
 >
 > - 📦 **What it is:** A minimal operating system kernel written from scratch (~1000 LOC).
-> - 🎯 **Why it matters:** Hands-on exploration of boot flow, trap handling, and context switching on bare-metal RISC-V.
 > - 🔗 [View Repository](https://github.com/imserez/rv-microkernel)
 >
 > ---
