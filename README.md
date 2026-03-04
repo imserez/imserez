@@ -63,34 +63,55 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 <summary>🔩 <b>Hardware, Kernel & Embedded</b></summary>
 <br>
 
-> ### 1. **riscv-microkernel** — Minimal OS Kernel  
+> ### 1. **HaDes-V** — RISC-V Processor Core `[WIP]`
+> ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005288?style=flat-square&logo=verilog&logoColor=white)
+> ![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white)
+> ![FPGA](https://img.shields.io/badge/CPU-Architecture-orange?style=flat-square)
+>
+> - 📦 **What it is:** A custom 32-bit RISC-V (RV32I) pipelined processor core built from scratch.
+> - 🧠 **Focus:** RTL design, instruction fetch/decode/execute pipeline, ALU implementation, and testbench verification with Verilator/GTKWave.
+> - 🔗 [View Repository](https://github.com/imserez/HaDes-V)
+>
+> ---
+>
+> ### 2. **FPGA Projects** — UART & Counter  
+> ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005288?style=flat-square&logo=verilog&logoColor=white)
+> ![Vivado](https://img.shields.io/badge/Vivado-CA0000?style=flat-square&logo=amd&logoColor=white)
+> ![FPGA](https://img.shields.io/badge/FPGA-Logic-orange?style=flat-square)
+>
+> - 📦 **What it is:** FPGA-based hardware modules implemented on Xilinx boards.
+> - 🧠 **Focus:** Finite State Machines (FSM), timing constraints, and HW/SW interfacing.
+> - 🔗 [Counter](https://github.com/imserez/fpga-counter) | [UART](https://github.com/imserez/fpga-uart)
+>
+> ---
+>
+> ### 3. **riscv-microkernel** — Minimal OS Kernel `[Paused]`
 > ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 > ![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white)
 > ![OS Dev](https://img.shields.io/badge/OS-Kernel-black?style=flat-square)
 >
 > - 📦 **What it is:** A minimal operating system kernel written from scratch (~1000 LOC).
+> - 🧠 **Focus:** Hardware abstraction, privilege modes, and SBI interaction via QEMU.
 > - 🔗 [View Repository](https://github.com/imserez/rv-microkernel)
 >
 > ---
 >
-> ### 2. **FPGA Projects** — UART & Counter  
-> ![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white)
-> ![Vivado](https://img.shields.io/badge/Vivado-CA0000?style=flat-square&logo=amd&logoColor=white)
-> ![FPGA](https://img.shields.io/badge/FPGA-Logic-orange?style=flat-square)
->
-> - 📦 **What it is:** FPGA-based hardware modules implemented on Xilinx boards.
-> - 🧠 **Focus:** RTL design, simulation, timing awareness, and HW/SW interfacing.
-> - 🔗 [Counter](https://github.com/imserez/fpga-counter) | [UART](https://github.com/imserez/fpga-uart)
->
-> ---
->
-> ### 3. **Arduino Game of Life** — Embedded Graphics  
+> ### 4. **Arduino Game of Life** — Embedded Graphics  
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 > ![Embedded](https://img.shields.io/badge/Embedded-MCU-success?style=flat-square)
 >
 > - 📦 **What it is:** Conway’s Game of Life optimized for low-memory microcontrollers.
 > - 🧠 **Focus:** Bitwise state encoding, SPI communication, and real-time rendering.
 > - 🔗 [View Repository](https://github.com/imserez/Colorful-game-of-life-)
+>
+> ---
+>
+> ### 5. **HDLBits Solutions** — Hardware Design Practice
+> ![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white)
+>
+> - 📦 **What it is:** My personal solutions to the HDLBits Verilog practice platform.
+> - 🧠 **Focus:** Combinational/sequential logic, state machines, and RTL design patterns.
+> - 🔗 [View Repository](https://github.com/imserez/hdlbits)
 
 </details>
 
