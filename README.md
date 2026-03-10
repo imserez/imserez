@@ -1,4 +1,4 @@
-# Hi there! I’m Sergi Juárez 👋
+# Hi! I’m Sergi Juárez 
 
 **Systems Software Engineer | Embedded & Low-Level Software | RISC-V | FPGA & HW/SW Interface**
 
@@ -8,9 +8,9 @@ I’m a systems-oriented engineer interested in working at the **intersection of
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-### 🎓 Background
+### Background
 
 I come from a **dual educational path**:
 
@@ -21,7 +21,7 @@ This combination shaped how I approach engineering problems: **self-driven learn
 
 ---
 
-### 🚀 Current Focus — Hardware / Software Interface
+### Current Focus — Hardware / Software Interface
 
 I’m actively moving towards **Hardware–Software Co-Design**, approaching it primarily from the **software side**:
 
@@ -57,7 +57,7 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 <details open>
 <summary>🔩 <b>Hardware, Kernel & Embedded</b></summary>
