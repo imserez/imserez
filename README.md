@@ -1,10 +1,10 @@
-# Hi! I’m Sergi Juárez 
+# Hi! I’m Sergi Juárez
 
-**Systems Software Engineer | Embedded & Low-Level Software | RISC-V | FPGA & HW/SW Interface**
+**Computer Architecture | RISC-V Systems | FPGA Prototyping | Hardware and Software Co-Design**
 
-I’m a systems-oriented engineer interested in working at the **intersection of software and hardware**. I’m currently focusing on **embedded and low-level systems**, with particular interest in **system bring-up**, **RISC-V architectures**, and the **hardware/software interface**.
+I’m a computer engineering student interested in computer architecture, RISC-V systems, and FPGA prototyping. My work focuses on understanding how modern computing systems are built, from digital hardware and processor pipelines to operating systems and system bring-up.
 
-> *“The best way to understand a system is to build it.”*
+> “The best way to understand a system is to build it.”
 
 ---
 
@@ -12,36 +12,55 @@ I’m a systems-oriented engineer interested in working at the **intersection of
 
 ### Background
 
-I come from a **dual educational path**:
+My path combines two complementary learning environments:
 
-- **UOC** — Computer Architecture & Operating Systems  
-- **42 Barcelona** — intensive, peer-to-peer, project-based learning  
+**Universitat Oberta de Catalunya (UOC)**  
+Computer Engineering degree with focus on computer architecture, operating systems, and systems engineering.
 
-This combination shaped how I approach engineering problems: **self-driven learning**, deep debugging, and collaborative problem-solving in complex systems.
+**42 Barcelona**  
+Project-based, peer-to-peer training centered on low-level programming, C, UNIX systems, and rigorous debugging.
 
----
-
-### Current Focus — Hardware / Software Interface
-
-I’m actively moving towards **Hardware–Software Co-Design**, approaching it primarily from the **software side**:
-
-- Operating system internals  
-- Embedded systems & bare-metal programming  
-- Firmware development  
-- RISC-V ISA and toolchains  
-
-In parallel, I’m building hands-on experience on the **hardware side**:
-
-- FPGA prototyping using **Verilog / SystemVerilog**
-- Design exploration and simulation with **Vivado**
-- Early system bring-up and validation
-- Understanding how software stacks interact with hardware platforms  
-
-To bridge both worlds, I’m prototyping designs on a **Xilinx FPGA**, focusing on reproducible workflows, clear documentation, and iterative testing. Seeing low-level software concepts materialize as real hardware has been a key learning experience.
+This combination shaped how I approach engineering problems: self-driven learning, deep debugging, and collaborative problem solving in complex systems.
 
 ---
 
-I’m currently deepening my understanding of **RISC-V systems**, where my interests in operating systems, embedded software, and FPGA prototyping naturally converge, with the goal of contributing to the **open-source hardware ecosystem**.
+### Current Focus
+
+I am particularly interested in **hardware and software co-design**, exploring how processor architecture, operating systems, and hardware platforms interact in modern computing systems.
+
+My current work focuses on:
+
+**Computer Architecture**
+- RISC-V ISA and processor design concepts
+- Pipeline organization and microarchitecture
+- System bring-up and low-level debugging
+
+**Hardware Development**
+- FPGA prototyping with Verilog and SystemVerilog
+- Digital design exploration using Vivado
+- Hardware validation and simulation workflows
+
+**Systems Programming**
+- Operating system internals
+- Low-level programming in C
+- UNIX system architecture
+
+To explore these concepts in practice, I prototype designs on FPGA platforms and build projects that connect hardware design with low-level software execution.
+
+---
+
+### Professional Background
+
+Before focusing on hardware design, I spent more than four years working in Linux system administration and infrastructure.
+
+This experience developed a strong foundation in:
+
+- systems thinking
+- debugging complex environments
+- performance-oriented problem solving
+- reliability and system operations
+
+These skills now complement my work in computer architecture and hardware prototyping.
 
 ---
 
@@ -50,9 +69,10 @@ I’m currently deepening my understanding of **RISC-V systems**, where my inter
 | Domain | Technologies |
 |------|-------------|
 | **Hardware Design** | Verilog, SystemVerilog, Vivado |
-| **Systems Programming** | C, C++, Assembly, RISC-V |
-| **Embedded & OS** | Linux, Kernel fundamentals, GNU Make, UART / GPIO |
-| **DevOps & Tools** | Git, Docker, GDB, Valgrind |
+| **Computer Architecture** | RISC-V ISA, CPU pipelines |
+| **Systems Programming** | C, C++, Assembly |
+| **Operating Systems** | Linux, UNIX internals |
+| **Tools** | Git, Docker, GDB, Valgrind |
 | **Scripting** | Bash, Python |
 
 ---
