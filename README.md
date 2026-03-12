@@ -224,7 +224,5 @@ These skills now complement my work in computer architecture and hardware protot
 
 ## 📫 Let’s Connect
 
-I’m eager to apply my skills in environments where **low-level software meets real hardware**.
-
 - **LinkedIn:** [Sergi Juárez](https://www.linkedin.com/in/sergijuarez/)
 - **Location:** Barcelona, Spain
