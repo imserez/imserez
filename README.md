@@ -224,5 +224,14 @@ These skills now complement my work in computer architecture and hardware protot
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** [Sergi Juárez](https://www.linkedin.com/in/sergijuarez/)
-- **Location:** Barcelona, Spain
+I’m eager to contribute to projects where **computer architecture, RISC-V processors, and hardware verification** meet real systems.
+
+I enjoy exploring the full stack from **instruction set architecture and RTL design to software running on the processor**.
+
+I'm particularly interested in opportunities related to:
+
+• Computer Architecture  
+• RISC-V Processor Design  
+• FPGA Prototyping  
+• Hardware Verification  
+• High-Performance Computing (HPC)
