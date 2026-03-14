@@ -234,4 +234,5 @@ I'm particularly interested in opportunities related to:
 • RISC-V Processor Design  
 • FPGA Prototyping  
 • Hardware Verification  
+• Hardware / Software Co-Design   
 • High-Performance Computing (HPC)
