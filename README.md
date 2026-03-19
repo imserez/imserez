@@ -34,10 +34,11 @@ My current work focuses on:
 - RISC-V ISA and processor design concepts
 - Pipeline organization and microarchitecture
 - System bring-up and low-level debugging
+- High-Performance computer architectures
 
 **Hardware Development**
 - FPGA prototyping with Verilog and SystemVerilog
-- Digital design exploration using Vivado
+- Digital design
 - Hardware validation and simulation workflows
 
 **Systems Programming**
