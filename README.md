@@ -90,7 +90,10 @@ These skills now complement my work in computer architecture and hardware protot
 >
 > -  **What it is:** A custom 32-bit RISC-V (RV32I) pipelined processor core built from scratch.
 > -  **Focus:** RTL design, instruction fetch/decode/execute pipeline, ALU implementation, and testbench verification with Verilator/GTKWave.
-> -  [View Repository](https://github.com/imserez/HaDes-V)
+> -  **Status:** 🔒 Repository temporarily private due to ongoing community challenge requirements. It will be made public upon completion.
+> -  **Note:**
+> Access to the repository can be granted upon request for recruiters or collaborators.
+> [Request Access](mailto:sergijp22@gmail.com)
 >
 > ---
 >
