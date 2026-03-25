@@ -81,7 +81,7 @@ These skills now complement my work in computer architecture and hardware protot
 ## Featured Projects
 
 <details open>
-<summary><b>Hardware, Kernel & Embedded</b></summary>
+<summary><b>Hardware, Kernel, Embedded & HPC</b></summary>
 <br>
 
 > ### 1. **HaDes-V** — RISC-V Processor Core `[WIP]`
@@ -111,7 +111,19 @@ These skills now complement my work in computer architecture and hardware protot
 > | Verification TB      | In progress   | Custom testbenches with waveform-based debugging |
 > ---
 >
-> ### 2. **FPGA Projects** — UART & Counter  
+> ### 2. **HPC Performance Analysis — NAS Parallel Benchmarks**
+> 
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![HPC](https://img.shields.io/badge/HPC-Performance-lightgrey?style=flat-square)
+> ![OpenMP](https://img.shields.io/badge/OpenMP-red?style=flat-square)
+>
+> - **What it is:** A detailed performance analysis of the NAS Parallel Benchmark (NPB)
+> - **Focus:** Cache behavior, memory bandwidth, multithreading overhead, and CPU microarchitecture effects.
+> - [View Repository](https://github.com/imserez/HPC-Performance-Analysis)
+>
+>  ---
+> 
+> ### 3. **FPGA Projects** — UART & Counter  
 > ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005288?style=flat-square&logo=verilog&logoColor=white)
 > ![Vivado](https://img.shields.io/badge/Vivado-CA0000?style=flat-square&logo=amd&logoColor=white)
 > ![FPGA](https://img.shields.io/badge/FPGA-Logic-orange?style=flat-square)
@@ -122,7 +134,7 @@ These skills now complement my work in computer architecture and hardware protot
 >
 > ---
 >
-> ### 3. **riscv-microkernel** — Minimal OS Kernel `[Paused]`
+> ### 4. **riscv-microkernel** — Minimal OS Kernel `[Paused]`
 > ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 > ![RISC-V](https://img.shields.io/badge/RISC--V-504DFF?style=flat-square&logo=riscv&logoColor=white)
 > ![OS Dev](https://img.shields.io/badge/OS-Kernel-black?style=flat-square)
@@ -133,7 +145,7 @@ These skills now complement my work in computer architecture and hardware protot
 >
 > ---
 >
-> ### 4. **Arduino Game of Life** — Embedded Graphics  
+> ### 5. **Arduino Game of Life** — Embedded Graphics  
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 > ![Embedded](https://img.shields.io/badge/Embedded-MCU-success?style=flat-square)
 >
@@ -143,7 +155,7 @@ These skills now complement my work in computer architecture and hardware protot
 >
 > ---
 >
-> ### 5. **HDLBits Solutions** — Hardware Design Practice
+> ### 6. **HDLBits Solutions** — Hardware Design Practice
 > ![Verilog](https://img.shields.io/badge/Verilog-B81D24?style=flat-square&logo=verilog&logoColor=white)
 >
 > -  **What it is:** My personal solutions to the HDLBits Verilog practice platform.
