@@ -18,14 +18,12 @@ I specialize in **CPU microarchitecture, RISC-V systems, and High-Performance Co
   * ↳ [UART Transceiver](https://github.com/imserez/fpga-uart) | [Counter](https://github.com/imserez/fpga-counter)
 * [**HDLBits Solutions**](https://github.com/imserez/hdlbits)
   * My personal solutions to the HDLBits **Verilog** practice platform (Combinational/sequential logic, state machines).
-
-## Systems Programming & UNIX
-* [**Philosophers**](https://github.com/imserez/philosphers)
-  * The classic Dining Philosophers problem solved using **POSIX threads** and mutexes to avoid deadlocks and data races.
 * [**Pipex**](https://github.com/imserez/pipex)
   * Replicates UNIX shell piping and redirections (`< file1 cmd1 | cmd2 > file2`) using `dup2` and file descriptors.
 * [**Arduino Game of Life**](https://github.com/imserez/Colorful-game-of-life-)
   * Conway’s Game of Life optimized for low-memory microcontrollers, featuring bitwise state encoding and **SPI** rendering.
-
+* [**Philosophers**](https://github.com/imserez/philosphers)
+  * The classic Dining Philosophers problem solved using **POSIX threads** and mutexes to avoid deadlocks and data races.
+---
 
 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/sergijuarez) 
