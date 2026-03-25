@@ -8,7 +8,7 @@ I specialize in **CPU microarchitecture, RISC-V systems, and High-Performance Co
 
 ## Here Are Some Projects
 
-* [**HPC Performance Analysis Framework**](https://github.com/imserez/HPC-Performance-Analysis)
+* [**HPC Performance Analysis**](https://github.com/imserez/HPC-Performance-Analysis)
   * Hardware profiling of the NAS CG Benchmark using **Intel PIN** and **PMUs** to demonstrate the "Memory Wall" effect and thread scalability bottlenecks (automated via Python/Make).
 * **HaDes-V (RISC-V Processor Core)** `[WIP - Private for now]`
   * Custom 32-bit RISC-V (RV32I) 5-stage pipelined processor core built from scratch in **SystemVerilog**, verified with **Verilator** and GTKWave.
