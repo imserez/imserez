@@ -111,7 +111,7 @@ These skills now complement my work in computer architecture and hardware protot
 > | Verification TB      | In progress   | Custom testbenches with waveform-based debugging |
 > ---
 >
-> ### 2. **HPC Performance Analysis — NAS Parallel Benchmarks**
+> ### 2. **HPC Performance Analysis & Framework — NAS Parallel Benchmarks**
 > 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![HPC](https://img.shields.io/badge/HPC-Performance-lightgrey?style=flat-square)
