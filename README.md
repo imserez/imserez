@@ -106,8 +106,8 @@ These skills now complement my work in computer architecture and hardware protot
 > | Fetch Stage (IF)     | Implemented   | Instruction fetch and PC update logic |
 > | Decode Stage (ID)    | Implemented   | Includes instruction decoding and register file |
 > | Execution Stage (EX) | Implemented   | ALU operations and operand handling |
-> | Memory Stage (MEM)   | In progress       | Data memory access and load/store logic |
-> | Writeback Stage (WB) | Planned       | Register writeback control |
+> | Memory Stage (MEM)   | Implemented       | Data memory access and load/store logic |
+> | Writeback Stage (WB) | In progress       | Register writeback control |
 > | Verification TB      | In progress   | Custom testbenches with waveform-based debugging |
 > ---
 >
