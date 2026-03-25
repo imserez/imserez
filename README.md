@@ -20,12 +20,8 @@ I specialize in **CPU microarchitecture, RISC-V systems, and High-Performance Co
   * My personal solutions to the HDLBits **Verilog** practice platform (Combinational/sequential logic, state machines).
 
 ## Systems Programming & UNIX
-* [**Minishell**](https://github.com/9x14S/42-Cursus-minishell)
-  * A custom Bash-like shell built in **C**. Handles parsing, process creation (fork/exec), signals, pipes, and environment variables.
 * [**Philosophers**](https://github.com/imserez/philosphers)
   * The classic Dining Philosophers problem solved using **POSIX threads** and mutexes to avoid deadlocks and data races.
-* [**Cub3D**](https://github.com/9x14S/42-Cursus-Cub3d)
-  * A Wolfenstein-style 3D graphics engine written in **C** using pure raycasting mathematics.
 * [**Pipex**](https://github.com/imserez/pipex)
   * Replicates UNIX shell piping and redirections (`< file1 cmd1 | cmd2 > file2`) using `dup2` and file descriptors.
 * [**Arduino Game of Life**](https://github.com/imserez/Colorful-game-of-life-)
