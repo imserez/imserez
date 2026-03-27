@@ -10,9 +10,10 @@ I specialize in **CPU microarchitecture, RISC-V systems, and High-Performance Co
 
 * [**HPC Performance Analysis**](https://github.com/imserez/HPC-Performance-Analysis)
   * Hardware profiling of the NAS CG Benchmark using **Intel PIN** and **PMUs** to demonstrate the "Memory Wall" effect and thread scalability bottlenecks (automated via Python/Make).
-* **HaDes-V (RISC-V Processor Core)** `[WIP - Private for now]`
+* **HaDes-V (RISC-V Processor Core)**
   * Custom 32-bit RISC-V (RV32I) 5-stage pipelined processor core built from scratch in **SystemVerilog**, verified with **Verilator** and GTKWave.
   * Developed as part of the official **[RISC-V International Community Challenge](https://community.riscv.org/events/details/risc-v-international-risc-v-academy-presents-community-challenge-with-hades-v/)**. Currently implementating the WB stage.
+  * This repository is private due to competition rules. Access can be granted upon request: [Contact me](mailto:sergijp22@gmail.com)
 * [**rv-microkernel**](https://github.com/imserez/rv-microkernel)
   * Minimal operating system kernel (~1000 LOC) written from scratch in **C** focusing on RISC-V hardware abstraction and SBI interaction via **QEMU**.
 * **FPGA Prototyping Modules**
